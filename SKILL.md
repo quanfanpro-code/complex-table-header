@@ -1,4 +1,4 @@
-﻿---
+---
 name: complex-table-header
 description: "Use when AI需要识别复杂表格本身，且存在多级表头、跨格、行列分组、嵌套、续表、表单或结构歧义等情况。"
 ---
